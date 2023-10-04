@@ -1,4 +1,4 @@
-<script setup>
+<script >
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
 import Contenu from "./components/Contenu.vue";
@@ -22,6 +22,7 @@ import Contenu from "./components/Contenu.vue";
 
   <main>
     <TheWelcome />
+    <Contenu/>
   </main>
 </template>
 
